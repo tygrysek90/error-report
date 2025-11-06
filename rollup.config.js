@@ -105,7 +105,7 @@ const config = {
 		}),
 		resolve(),
 		typescript(),
-		terser({
+/* 		terser({
 			compress: {
 				passes: 5,
 				toplevel: true,
@@ -117,7 +117,7 @@ const config = {
 				wrap_iife: true,
 				beautify: (options.build === "development"),
 			}
-		})
+		}) */
 	]
 };
 export default config;
