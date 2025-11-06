@@ -1,3 +1,11 @@
+### This repository contains code used in bug report for OpenRCT2 plugin environment. 
+### Kindly bear in mind that this code can bring your OpenRCT2 down, cause data and/or hair loss
+
+
+___________________
+below follows readme listing of template used to roll-up typescript
+___________________
+
 # A Feature-rich OpenRCT2 plugin with GUI template
 ## Using: Typescript, FlexUi and more
 
