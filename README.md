@@ -1,3 +1,6 @@
+#### I have ceased my activities on GitHub. Contents of this repository are no longer maintained.
+
+
 ### This repository contains code used in bug report for OpenRCT2 plugin environment. 
 ### Kindly bear in mind that this code can bring your OpenRCT2 down, cause data and/or hair loss
 
